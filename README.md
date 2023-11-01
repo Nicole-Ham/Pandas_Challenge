@@ -1,9 +1,6 @@
 # Pandas_Challenge
 Module 4 Challenge
 
-Coding help recieved from tutor, Mark Fulton and Saad from BCS Learning Assistant. 
-
-
 # PyCitySchool Analysis
 
 According to the data analysis of PyCity Schools, charter schools overall perform better. Most significanly in the percent overall passing with a 90% passing rate, whereas district schools have a 54% passing rate. When analysing overall percent passing rates, charter schools are in the top 5 and district schools are in the lowest 5 of overall performance. 
